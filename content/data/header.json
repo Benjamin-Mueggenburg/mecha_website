@@ -2,7 +2,7 @@
     "primaryLinks": [
         {
             "label": "Home",
-            "url": "/home",
+            "url": "mechauoa.netlify.app/home/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -11,7 +11,7 @@
         {
             "label": "Events",
             "altText": "Events",
-            "url": "/events",
+            "url": "mechauoa.netlify.app/events/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -21,7 +21,7 @@
             "type": "Link",
             "label": "Sponsors",
             "altText": "Sponsors",
-            "url": "/sponsors",
+            "url": "mechauoa.netlify.app/sponsors/",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -37,7 +37,7 @@
                     "type": "Link",
                     "label": "Educational",
                     "altText": "",
-                    "url": "/",
+                    "url": "mechauoa.netlify.app/educational/",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -48,7 +48,7 @@
                     "type": "Link",
                     "label": "Wellness",
                     "altText": "",
-                    "url": "/",
+                    "url": "mechauoa.netlify.app/wellbeing/",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -59,7 +59,7 @@
                     "type": "Link",
                     "label": "Opportunities",
                     "altText": "",
-                    "url": "/",
+                    "url": "mechauoa.netlify.app/opportunities/",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -75,7 +75,7 @@
             "links": [
                 {
                     "label": "Our Values",
-                    "url": "/ourvalues",
+                    "url": "mechauoa.netlify.app/ourvalues/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -83,7 +83,7 @@
                 },
                 {
                     "label": "Meet Our Team",
-                    "url": "/meetourteam",
+                    "url": "mechauoa.netlify.app/meetourteam/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -91,7 +91,7 @@
                 },
                 {
                     "label": "Contact Us",
-                    "url": "/contactus",
+                    "url": "mechauoa.netlify.app/contactus/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
