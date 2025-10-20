@@ -1,64 +1,97 @@
 {
-    "logo": {
-        "url": "/images/logo-dark.svg",
-        "altText": "Logo dark",
-        "styles": {
-            "self": {
-                "margin": ["mr-3"]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Home",
+            "url": "/home",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
+            "label": "Events",
+            "altText": "Events",
+            "url": "/events",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
+            "type": "Link",
+            "label": "Sponsors",
+            "altText": "Sponsors",
+            "url": "/sponsors",
+            "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "elementId": ""
         },
         {
-            "label": "Dropdown",
+            "type": "SubNav",
+            "label": "Resources",
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "type": "Link",
+                    "label": "Educational",
+                    "altText": "",
                     "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Wellness",
+                    "altText": "",
+                    "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Opportunities",
+                    "altText": "",
+                    "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
+            "labelStyle": "secondary"
+        },
+        {
+            "label": "About Us",
+            "altText": "Dropdown",
+            "links": [
+                {
+                    "label": "Our Values",
+                    "url": "/ourvalues",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Meet Our Team",
+                    "url": "/meetourteam",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Contact Us",
+                    "url": "/contactus",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -76,19 +109,42 @@
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "secondary",
+            "style": "primary",
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "type": "Button",
+            "label": "Get started",
+            "altText": "",
             "url": "/",
+            "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "primary",
-            "type": "Button"
+            "style": "secondary",
+            "elementId": ""
         }
     ],
-    "variant": "logo-left-primary-nav-centered",
+    "variant": "logo-centered-primary-nav-left",
     "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "type": "Header",
+    "logo": {
+        "type": "ImageBlock",
+        "altText": "Image alt text placeholder",
+        "elementId": "",
+        "styles": {
+            "self": {
+                "borderRadius": "medium",
+                "padding": [
+                    "pt-0",
+                    "pr-0"
+                ],
+                "margin": [
+                    "mt-0",
+                    "mr-64",
+                    "ml-64"
+                ]
+            }
+        },
+        "url": "/images/MECHA LOGO SALMONELLA.png"
+    }
 }

@@ -1,12 +1,7 @@
 {
-    "logo": {
-        "url": "/images/logo-white.svg",
-        "altText": "Logo light",
-        "type": "ImageBlock"
-    },
     "text": "A description of your brand",
     "primaryLinks": {
-        "title": "Product",
+        "title": "our mission",
         "links": [
             {
                 "label": "Features",
@@ -37,7 +32,7 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "our people",
         "links": [
             {
                 "label": "Careers",
@@ -104,6 +99,20 @@
         }
     ],
     "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
-    "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "colors": "bg-neutral-fg-dark",
+    "type": "Footer",
+    "logo": {
+        "type": "ImageBlock",
+        "url": "/images/MECHA LOGO SALMONELLA.png",
+        "altText": "Image alt text placeholder",
+        "elementId": "",
+        "styles": {
+            "self": {
+                "borderRadius": "medium",
+                "margin": [
+                    "mr-40"
+                ]
+            }
+        }
+    }
 }
