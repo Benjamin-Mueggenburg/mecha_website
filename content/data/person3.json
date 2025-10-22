@@ -1,7 +1,7 @@
 {
     "type": "Person",
     "name": "Tomas",
-    "role": "Secretary",
+    "role": "Pt IV, Mechatronics",
     "image": {
         "url": "/images/avatar3.svg",
         "altText": "Asher Schmitt",
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Secretary\n"
 }
