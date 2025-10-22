@@ -1,10 +1,10 @@
 {
-    "text": "A description of your brand",
+    "text": "Mechanical and Mechatronics Student Association\n\nUniversity of Auckland\n\ne: mecha.uoa\\@gmail.com\n",
     "primaryLinks": {
         "title": "our mission",
         "links": [
             {
-                "label": "Features",
+                "label": "Events",
                 "altText": "Features page",
                 "url": "/",
                 "icon": "arrowRight",
@@ -71,12 +71,6 @@
             "altText": "LinkedIn link",
             "url": "https://www.linkedin.com/company/netlify",
             "icon": "linkedin",
-            "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
             "type": "Social"
         }
     ],
