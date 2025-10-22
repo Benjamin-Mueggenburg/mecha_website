@@ -5,8 +5,8 @@
         "links": [
             {
                 "label": "Events",
-                "altText": "Features page",
-                "url": "/",
+                "altText": "Events page",
+                "url": "/events",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -36,16 +36,16 @@
         "links": [
             {
                 "label": "The Team",
-                "altText": "careers page",
-                "url": "/careers",
+                "altText": "team page",
+                "url": "/meetourteam",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Our Sponsors",
+                "url": "/sponsors",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -62,9 +62,9 @@
             "type": "Social"
         },
         {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
+            "altText": "Instagram Link",
+            "url": "https://www.instagram.com/mecha.uoa/",
+            "icon": "instagram",
             "type": "Social"
         },
         {
