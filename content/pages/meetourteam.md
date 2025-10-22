@@ -46,15 +46,13 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: 2026 Exec Applications open now
+    subtitle: 2026 Exec Applications open now <3
     items:
       - type: FeaturedItem
-        title: MECHA Executive
-        subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: MECHA General Executive
+        subtitle: ''
+        text: |
+          As a MECHA exec, 
         actions: []
         colors: bg-neutral-fg-dark
         styles:
