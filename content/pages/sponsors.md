@@ -205,8 +205,8 @@ sections:
 slug: sponsors
 seo:
   type: Seo
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create
+  metaTitle: Our Sponsors
+  metaDescription: ''
   socialImage: /images/main-hero.jpg
   metaTags: []
 ---
