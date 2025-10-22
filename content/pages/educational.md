@@ -50,7 +50,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Educational Resources
+      text: Helpful Resources
       color: text-primary
       styles:
         self:
@@ -58,22 +58,27 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Business Consulting
+        title: UoA Citation Guide
         tagline: Feature 2
-        subtitle: Be in good company
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: For all your report referencing style tips!
+        text: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
           altText: Business consulting
           elementId: ''
           styles:
             self:
               borderRadius: medium
-        actions: []
+        actions:
+          - type: Link
+            label: See Tutorials
+            altText: ''
+            url: '/https://auckland.libguides.com/quickcite/'
+            showIcon: true
+            icon: arrowRight
+            iconPosition: left
+            style: primary
+            elementId: ''
         colors: bg-dark-fg-light
         styles:
           self:
