@@ -77,8 +77,8 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/images.jpg
+      opacity: 50
+      url: /images/IMG_0859.JPG
   - type: FeaturedItemsSection
     title:
       text: Our Mission
@@ -229,14 +229,14 @@ sections:
         textAlign: center
   - subtitle: Our Sponsors for 2025
     images:
-      - url: /images/Beca-Logo-Large.png
+      - url: /images/beca small.jpg
         altText: Beca logo
         type: ImageBlock
         styles:
           self:
             margin:
-              - ml-96
-              - mr-96
+              - ml-0
+              - mr-0
       - url: /images/Crown-Grey-Logo.jpg
         altText: Crown logo
         type: ImageBlock
