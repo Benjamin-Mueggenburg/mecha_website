@@ -48,10 +48,12 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    subtitle: Connecting with industry beyond University.
+    text: >+
+      MECHA supports students in both their personal and professional
+      development, creating opportunities for meaningful connections and growth
+      that prepare them to enter the engineering industry with confidence.
+
     actions:
       - type: Button
         label: Get started
@@ -68,7 +70,7 @@ sections:
         style: primary
     badge:
       type: Badge
-      label: This is a badge
+      label: connecting
       color: text-primary
       styles:
         self:
@@ -81,6 +83,60 @@ sections:
         flexDirection: row
       subtitle:
         textAlign: center
+        fontStyle: italic
+    media:
+      type: ImageBlock
+      url: /images/IMG_0870.JPG
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Education
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: Be in good company
+    text: >
+      A service that provides advice and guidance to startups and small
+      businesses.
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/IMG_1794.JPG
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+      subtitle:
+        textAlign: center
+        fontStyle: italic
 slug: ourvalues
 isDraft: false
 seo:
