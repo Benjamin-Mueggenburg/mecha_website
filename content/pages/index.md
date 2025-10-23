@@ -229,18 +229,45 @@ sections:
         textAlign: center
   - subtitle: Our Sponsors for 2025
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
+      - url: /images/Beca-Logo-Large.png
+        altText: Beca logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
+        styles:
+          self:
+            margin:
+              - ml-96
+              - mr-96
+      - url: /images/Crown-Grey-Logo.jpg
+        altText: Crown logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+        styles:
+          self:
+            margin:
+              - ml-96
+              - mr-96
+      - url: /images/fph.jpg
+        altText: FPH logo
+        type: ImageBlock
+        styles:
+          self:
+            margin:
+              - ml-96
+              - mr-96
+      - url: /images/jane street.jpg
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
+        styles:
+          self:
+            margin:
+              - ml-96
+              - mr-96
+      - type: ImageBlock
+        url: /images/jacobs.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
