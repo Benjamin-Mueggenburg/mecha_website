@@ -6,15 +6,15 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: MECHA UOA
+        title: What is MECHA?
         tagline: Welcome
-        subtitle: 'Mechanical and Mechatronics Student Association, UoA'
+        subtitle: We are the Mechanical and Mechatronics Student Association at UoA.
         text: |+
           Blurb here about our club
 
         image:
           type: ImageBlock
-          url: /images/person-placeholder-light.png
+          url: /images/MECHA LOGO SALMONELLA.png
           altText: Maria Walters
           styles:
             self:
