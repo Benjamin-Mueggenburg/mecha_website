@@ -33,9 +33,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify.”
+        title: yay
         tagline: A Message from our Presidents
         subtitle: Ella and Sasha
         text: |+
@@ -93,8 +91,8 @@ sections:
       them with valuable skills and lifelong connections.
     items:
       - type: FeaturedItem
-        title: Industry
-        subtitle: Numbers Done
+        title: Industry Events
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -121,8 +119,8 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Education
-        subtitle: The Job Stuff
+      - title: Masterclasses & Workshops
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -146,8 +144,8 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Social
-        subtitle: Faster
+      - title: Social Events
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -170,8 +168,8 @@ sections:
             flexDirection: row
         type: FeaturedItem
       - type: FeaturedItem
-        title: Diversity & Wellbeing
-        subtitle: Creating a safe and inclusive community
+        title: Student Support
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -227,6 +225,41 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Social Media Management
+      color: text-dark
+    subtitle: Increase your reach
+    text: >
+      A service that helps businesses to manage their social media accounts and
+      posts.
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Fun feature preview
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
   - subtitle: Our Sponsors for 2025
     images:
       - url: /images/beca small.jpg
