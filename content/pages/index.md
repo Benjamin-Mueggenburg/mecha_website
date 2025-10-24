@@ -166,6 +166,8 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            margin:
+              - mb-7
         type: FeaturedItem
       - type: FeaturedItem
         title: Student Support
@@ -195,6 +197,8 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
+            margin:
+              - mb-7
     actions:
       - label: See our Prospectus for more on our mission!
         altText: ''
@@ -228,21 +232,24 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: ''
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: Increase your reach
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
     actions:
       - type: Button
-        label: Get started
+        label: Sign up to be a member here!
         url: /
         icon: arrowRight
         iconPosition: right
         style: secondary
       - type: Link
-        label: See Tutorials
+        label: What does uni with MECHA look like?
         url: /
         showIcon: true
         icon: arrowRight
@@ -250,16 +257,23 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
       altText: Fun feature preview
     badge:
       type: Badge
       label: This is a badge
       color: text-primary
-    colors: bg-light-fg-dark
+      styles:
+        self:
+          textAlign: center
+    colors: bg-neutral-fg-dark
     styles:
       self:
-        alignItems: center
+        alignItems: flex-start
+        justifyContent: center
+      subtitle:
+        textAlign: center
+      text:
+        textAlign: center
   - subtitle: Our Sponsors for 2025
     images:
       - url: /images/beca small.jpg
