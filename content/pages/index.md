@@ -250,7 +250,7 @@ sections:
         style: secondary
       - type: Link
         label: What does uni with MECHA look like?
-        url: /
+        url: /events
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -260,7 +260,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: This is a badge
+      label: JOIN us today!
       color: text-primary
       styles:
         self:
