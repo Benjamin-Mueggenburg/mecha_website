@@ -1,5 +1,5 @@
 {
-    "text": "Mechanical and Mechatronics Student Association\n\nUniversity of Auckland\n\ne: mecha.uoa\\@gmail.com\n",
+    "text": "University of Auckland Mechanical and Mechatronics Student Association\n\ne: <mecha.uoa@gmail.com>\n",
     "primaryLinks": {
         "title": "Get involved!",
         "links": [
@@ -11,6 +11,17 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
+            },
+            {
+                "type": "Link",
+                "label": "Prospectus",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             },
             {
                 "label": "Contact Us",
