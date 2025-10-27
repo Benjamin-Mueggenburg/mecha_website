@@ -126,7 +126,7 @@ sections:
       altText: Dope design preview
       styles:
         self:
-          borderRadius: small
+          borderRadius: medium
     badge:
       type: Badge
       label: This is a badge
@@ -171,8 +171,11 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/DSCF9487_cocktail_final.jpg
       altText: Fun feature preview
+      styles:
+        self:
+          borderRadius: medium
     badge:
       type: Badge
       label: This is a badge
