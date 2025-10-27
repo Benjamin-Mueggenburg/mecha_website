@@ -3,7 +3,7 @@ type: PageLayout
 title: Our Values
 sections:
   - type: CarouselSection
-    subtitle: MECHA's vision
+    subtitle: MECHA's values drive our events and directions of focus.
     items:
       - type: FeaturedItem
         title: Our Pillars blah blah
@@ -188,6 +188,57 @@ sections:
     styles:
       self:
         alignItems: center
+        justifyContent: center
+      subtitle:
+        textAlign: center
+        fontStyle: italic
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Diversity & Wellbeing
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: Ensuring students have support and are safe during their time with us.
+    text: >+
+      MECHA upholds a strong commitment to providing support and advocacy for
+      underrepresented groups to ensure equitable opportunities and a sense of
+      belonging in engineering.
+
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/P1090023.jpg
+      altText: Dope design preview
+      styles:
+        self:
+          borderRadius: medium
+    badge:
+      type: Badge
+      label: helping
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
         justifyContent: center
       subtitle:
         textAlign: center
