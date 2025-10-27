@@ -2,13 +2,16 @@
     "name": "Ella Pan",
     "role": "Pt III, Mechatronics",
     "image": {
-        "url": "/images/avatar1.svg",
+        "url": "/images/ellaaaa.jpg",
         "altText": "Rhonda Piper",
         "styles": {
             "self": {
                 "borderRadius": "medium",
                 "margin": [
-                    "mb-8"
+                    "mb-8",
+                    "ml-2",
+                    "mr-2",
+                    "mt-3"
                 ]
             }
         },
