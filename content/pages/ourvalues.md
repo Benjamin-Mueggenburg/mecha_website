@@ -3,7 +3,7 @@ type: PageLayout
 title: Our Values
 sections:
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: MECHA's vision
     items:
       - type: FeaturedItem
         title: Our Pillars blah blah
@@ -100,10 +100,12 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    subtitle: Refining practical skills outside of the lecture theatre.
+    text: >+
+      Through practical challenges and academic enrichment, MECHA ignites
+      curiosity and drives our members to explore and excel in the world of
+      Mechanical and Mechatronics Engineering.
+
     actions:
       - type: Button
         label: Get started
@@ -122,6 +124,9 @@ sections:
       type: ImageBlock
       url: /images/IMG_1794.JPG
       altText: Dope design preview
+      styles:
+        self:
+          borderRadius: small
     badge:
       type: Badge
       label: This is a badge
@@ -134,9 +139,52 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+        justifyContent: center
       subtitle:
         textAlign: center
         fontStyle: italic
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Social
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: Increase your reach
+    text: >
+      A service that helps businesses to manage their social media accounts and
+      posts.
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Fun feature preview
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        justifyContent: center
 slug: ourvalues
 isDraft: false
 seo:
