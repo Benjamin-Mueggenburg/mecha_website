@@ -24,19 +24,16 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: About Company
-        tagline: This is the tagline
-        subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+      - title: UoA MECH Staff
+        tagline: This event was in collaboration with
+        subtitle: Thank You!!
         image:
-          url: /images/telus-logo.svg
+          url: /images/The_University_of_Auckland_Logo.png
           altText: Company logo
           styles:
             self:
               margin:
-                - ml-3
+                - ml-4
           type: ImageBlock
         colors: bg-light-fg-dark
         styles:
