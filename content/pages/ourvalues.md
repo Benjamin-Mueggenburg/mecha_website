@@ -3,16 +3,16 @@ type: PageLayout
 title: Our Values
 sections:
   - type: CarouselSection
-    subtitle: MECHA's values drive our events and directions of focus.
+    subtitle: ''
     items:
       - type: FeaturedItem
-        title: Our Pillars blah blah
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: How does MECHA's values shape your experience with our club?
+        tagline: Our Values
+        subtitle: ''
+        text: >+
+          We carefully plan events under the following pillars, which connect,
+          educate and inspire the next generation of engineers.
+
         image:
           type: ImageBlock
           url: /images/person-placeholder-light.png
@@ -34,12 +34,20 @@ sections:
             flexDirection: row
             justifyContent: center
     variant: dots-nav
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         justifyContent: center
       subtitle:
         textAlign: center
+    backgroundImage:
+      type: BackgroundImage
+      altText: Pt II Welcome Lunch
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 35
+      url: /images/IMG_0682.JPG
   - type: GenericSection
     title:
       type: TitleBlock
