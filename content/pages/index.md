@@ -93,13 +93,11 @@ sections:
       - type: FeaturedItem
         title: Industry Events
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Events like Speed Interview
         actions: []
         elementId: null
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -115,10 +113,14 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/network.png
           styles:
             self:
               borderRadius: x-large
+              margin:
+                - ml-2
+                - mt-4
+                - mr-6
       - title: Masterclasses & Workshops
         subtitle: ''
         text: >-
@@ -126,12 +128,18 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/icon2.svg
+          url: /images/book.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
+          styles:
+            self:
+              margin:
+                - ml-2
+                - mt-4
+                - mr-6
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -151,12 +159,18 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/icon3.svg
+          url: /images/user.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
+          styles:
+            self:
+              margin:
+                - ml-2
+                - mt-4
+                - mr-6
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -178,14 +192,18 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/clap.png
           altText: Placeholder text
           elementId: ''
           styles:
             self:
               borderRadius: x-large
+              margin:
+                - mr-6
+                - mt-4
+                - ml-2
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -199,6 +217,7 @@ sections:
             textAlign: left
             margin:
               - mb-7
+              - mr-0
     actions:
       - label: See our Prospectus for more on our mission!
         altText: ''
