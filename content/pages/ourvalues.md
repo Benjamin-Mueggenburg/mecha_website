@@ -15,7 +15,6 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/person-placeholder-light.png
           altText: Maria Walters
           styles:
             self:
@@ -33,6 +32,9 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+            margin:
+              - ml-28
+              - mr-28
     variant: dots-nav
     colors: bg-dark-fg-light
     styles:
