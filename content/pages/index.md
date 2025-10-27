@@ -353,7 +353,7 @@ sections:
     showDate: true
     showAuthor: true
     variant: three-col-grid
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -367,11 +367,11 @@ sections:
     title:
       type: TitleBlock
       text: Recent Events
-      color: text-primary
+      color: text-light
       styles:
         self:
           textAlign: center
-          fontWeight: 400
+          fontWeight: 700
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
