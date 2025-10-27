@@ -18,13 +18,13 @@ sections:
       - content/data/person5.json
       - content/data/person6.json
       - content/data/elsa.json
+      - content/data/kia.json
       - content/data/jonty.json
       - content/data/isabella.json
+      - content/data/ellaa.json
       - content/data/stacie.json
       - content/data/spencer.json
       - content/data/ezra.json
-      - content/data/ellaa.json
-      - content/data/kia.json
     actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
@@ -35,53 +35,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: Apply now
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: 2026 Exec Applications open now <3
-    items:
-      - type: FeaturedItem
-        title: MECHA General Executive
-        subtitle: ''
-        text: |
-          As a MECHA exec, 
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            textAlign: left
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-    actions:
-      - type: Button
-        label: Apply now
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    variant: toggle-list
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-40
-          - pt-16
-          - pl-3
-          - pr-3
         justifyContent: center
       subtitle:
         textAlign: center
