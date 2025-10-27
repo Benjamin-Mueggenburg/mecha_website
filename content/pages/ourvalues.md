@@ -70,7 +70,7 @@ sections:
         style: primary
     badge:
       type: Badge
-      label: connecting
+      label: preparing
       color: text-primary
       styles:
         self:
@@ -129,7 +129,7 @@ sections:
           borderRadius: medium
     badge:
       type: Badge
-      label: This is a badge
+      label: learning
       color: text-primary
       styles:
         self:
@@ -151,10 +151,11 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Increase your reach
+    subtitle: Get within the MECHA community!
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      We recognise the important of a safe, and inclusive community during
+      study. MECHA brings students together through fun and meaningful
+      experiences that foster enduring connections within our network.
     actions:
       - type: Button
         label: Get started
@@ -178,7 +179,7 @@ sections:
           borderRadius: medium
     badge:
       type: Badge
-      label: This is a badge
+      label: connecting
       color: text-primary
       styles:
         self:
@@ -188,6 +189,9 @@ sections:
       self:
         alignItems: center
         justifyContent: center
+      subtitle:
+        textAlign: center
+        fontStyle: italic
 slug: ourvalues
 isDraft: false
 seo:
