@@ -123,10 +123,9 @@ sections:
                 - mr-6
       - title: Masterclasses & Workshops
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Learn new skills and put classroom theory to practical use in our
+          workshop classes and build events!
         image:
           url: /images/book.png
           altText: Featured icon two
@@ -297,40 +296,36 @@ sections:
         textAlign: center
   - subtitle: Our Sponsors for 2025
     images:
-      - url: /images/beca small.jpg
-        altText: Beca logo
-        type: ImageBlock
-        styles:
-          self:
-            margin:
-              - ml-0
-              - mr-0
-      - url: /images/Crown-Grey-Logo.jpg
-        altText: Crown logo
-        type: ImageBlock
-        styles:
-          self:
-            margin:
-              - ml-96
-              - mr-96
-      - url: /images/fph.jpg
-        altText: FPH logo
-        type: ImageBlock
-        styles:
-          self:
-            margin:
-              - ml-96
-              - mr-96
-      - url: /images/jane street.jpg
-        altText: Sanity logo
-        type: ImageBlock
-        styles:
-          self:
-            margin:
-              - ml-96
-              - mr-96
       - type: ImageBlock
-        url: /images/jacobs.png
+        url: /images/beca-resized.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/fph-resized.jpg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/crown-resized.jpg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/jnst-resized.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/jacobs-resized.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
