@@ -1,6 +1,6 @@
 ---
 title: MECHA Design Challenge
-slug: MECHA-design-challenge
+slug: MECHA-design-challenge-2025
 date: '2025-09-12'
 excerpt: >-
   MECHA's flagship event MDC (MECHA Design Challenge) is back again this year
@@ -14,7 +14,7 @@ featuredImage:
   styles:
     self:
       borderRadius: medium
-isFeatured: true
+isFeatured: false
 seo:
   metaTitle: MECHA Design Challenge
   metaDescription: MECHA's annual design challenge. Presenting Aquabots for 2026!
