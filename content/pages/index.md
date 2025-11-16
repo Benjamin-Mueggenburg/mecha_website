@@ -8,30 +8,30 @@ sections:
       - type: FeaturedItem
         title: Who are we?
         tagline: Welcome
-        subtitle: We are the Mechanical and Mechatronics Student Association at UoA.
-        text: |+
-          Blurb here about our club
-
-        image:
-          type: ImageBlock
-          url: /images/MECHA LOGO SALMONELLA.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
+        subtitle: ''
+        text: >
+          The Mechanical and Mechatronics Student Association (MECHA) is a
+          student-led group that aims to connect students with the industry and
+          equip them with the skills to excel in their chosen field. From
+          sharpening their interviewing skills to networking with industry
+          members, MECHA is a fantastic stepping stone to aid the leap from
+          university to the industry.
         actions: []
         colors: bg-light-fg-dark
         styles:
           self:
             padding:
-              - pt-9
-              - pb-9
+              - pt-14
+              - pb-14
               - pl-9
               - pr-9
-            textAlign: left
+            textAlign: center
             borderRadius: large
             flexDirection: row
             justifyContent: center
+            margin:
+              - ml-10
+              - mr-10
       - type: FeaturedItem
         title: yay
         tagline: A Message from our Presidents
@@ -79,22 +79,90 @@ sections:
       url: /images/IMG_0859.JPG
   - type: FeaturedItemsSection
     title:
+      type: TitleBlock
       text: Our Mission
       color: text-dark
       styles:
         self:
           textAlign: center
+    subtitle: A Message from our Presidents
+    items: []
+    actions: []
+    variant: two-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-8
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    badge:
+      type: Badge
+      label: What is MECHA about?
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+  - type: CarouselSection
+    items:
+      - type: FeaturedItem
+        title: Hi there!
+        tagline: ''
+        subtitle: Increase your reach
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: tabs-nav
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        justifyContent: center
+        padding:
+          - pt-0
+      subtitle:
+        textAlign: center
+  - type: FeaturedItemsSection
+    title:
+      text: ''
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
       type: TitleBlock
-    subtitle: >-
-      As the Student Association for Mechanical and Mechatronics Students, we
-      aim to support students to excel in their chosen specialisation, and equip
-      them with valuable skills and lifelong connections.
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Connecting with Industry
         subtitle: ''
-        text: |
-          Events like Speed Interview
+        text: >
+          Events like Speed Interviews connects you to valued Industry
+          professionals. Join us to explore the countless career possibilities
+          beyond university and find your niche.
         actions: []
         elementId: null
         colors: bg-dark-fg-light
@@ -107,7 +175,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-            justifyContent: center
+            justifyContent: flex-start
             textAlign: left
         image:
           type: ImageBlock
@@ -125,7 +193,7 @@ sections:
         subtitle: ''
         text: >
           Learn new skills and put classroom theory to practical use in our
-          workshop classes and build events!
+          workshop classes and exciting design & build competitions!
         image:
           url: /images/book.png
           altText: Featured icon two
@@ -183,12 +251,10 @@ sections:
               - mb-7
         type: FeaturedItem
       - type: FeaturedItem
-        title: Student Support
+        title: Community Support
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          A strong, safe community 
         image:
           type: ImageBlock
           url: /images/clap.png
@@ -228,7 +294,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: What is mecha about?
+      label: ''
       color: text-primary
       styles:
         self:
