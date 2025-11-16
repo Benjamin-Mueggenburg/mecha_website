@@ -48,11 +48,14 @@ postFeed:
   subtitle: null
   showThumbnail: true
   showExcerpt: true
-  showDate: true
-  showAuthor: true
+  showDate: false
+  showAuthor: false
   actions: []
   elementId: null
   variant: three-col-grid
   colors: bg-light-fg-dark
   hoverEffect: move-up
+  styles:
+    self:
+      justifyContent: center
 ---

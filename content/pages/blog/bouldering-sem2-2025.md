@@ -20,6 +20,16 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: col
+    margin:
+      - mt-2
+      - ml-2
+      - mb-2
+      - mr-2
+    padding:
+      - pt-5
+      - pl-5
+      - pb-5
+      - pr-5
 author: content/data/person2.json
 type: PostLayout
 ---
