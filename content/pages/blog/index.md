@@ -7,13 +7,12 @@ topSections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Recent Events
       color: text-dark
       styles:
         self:
           textAlign: center
     posts:
-      - content/pages/blog/MECHA-design-challenge-2025.md
       - content/pages/blog/staff-vs-student-sem22025.md
     showThumbnail: true
     showExcerpt: true
@@ -21,7 +20,7 @@ topSections:
     showAuthor: true
     actions: []
     elementId: ''
-    variant: big-list
+    variant: small-list
     colors: bg-light-fg-dark
     hoverEffect: shadow-plus-move-up
     styles:
