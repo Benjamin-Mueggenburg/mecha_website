@@ -4,32 +4,26 @@ slug: /blog
 numOfPostsPerPage: 8
 enableSearch: true
 topSections:
-  - type: FeaturedPostsSection
+  - type: RecentPostsSection
     title:
       type: TitleBlock
       text: Recent Events
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
-    posts:
-      - content/pages/blog/staff-vs-student-sem22025.md
+    recentCount: 2
     showThumbnail: true
     showExcerpt: true
     showDate: true
     showAuthor: true
     actions: []
     elementId: ''
-    variant: small-list
+    variant: two-col-grid
     colors: bg-light-fg-dark
-    hoverEffect: shadow-plus-move-up
+    hoverEffect: thick-underline
     styles:
       self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
         justifyContent: center
 styles:
   title:
