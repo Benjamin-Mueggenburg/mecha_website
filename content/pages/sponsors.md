@@ -125,7 +125,7 @@ sections:
         title: Crown Robotics
         tagline: This is the tagline
         subtitle: ''
-        text: "Since\_its\_entry into the material handling equipment industry in 1960, Crown has earned a reputation as a leading innovator in world-class forklift and material handling equipment.\n\nCrown designs and manufactures up to 85 percent of its lift truck components, including key parts like motors, drive units, and electronic modules. When it says Crown on the outside, it's a Crown on the inside.\n\n\n\n"
+        text: "Since\_its\_entry into the material handling equipment industry in 1960, Crown has earned a reputation as a leading innovator in world-class forklift and material handling equipment. Crown designs and manufactures up to 85 percent of its lift truck components, including key parts like motors, drive units, and electronic modules. When it says Crown on the outside, it's a Crown on the inside.\n"
         image:
           type: ImageBlock
           url: /images/Crown-Grey-Logo.jpg
