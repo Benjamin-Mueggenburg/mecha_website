@@ -33,7 +33,7 @@ sections:
               - pt-9
               - pb-9
               - pl-14
-              - pr-9
+              - pr-14
             textAlign: center
             borderRadius: large
             flexDirection: row
