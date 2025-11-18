@@ -39,7 +39,7 @@ sections:
             flexDirection: row
             justifyContent: center
             margin:
-              - mt-16
+              - mt-7
               - mb-16
       - type: FeaturedItem
         title: Who are we?
