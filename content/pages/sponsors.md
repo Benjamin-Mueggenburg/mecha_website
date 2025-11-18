@@ -46,7 +46,16 @@ sections:
                 - mr-28
                 - mt-14
                 - mb-7
-        actions: []
+        actions:
+          - type: Link
+            label: Play
+            altText: Play
+            url: '/https://www.beca.com/'
+            showIcon: true
+            icon: play
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
