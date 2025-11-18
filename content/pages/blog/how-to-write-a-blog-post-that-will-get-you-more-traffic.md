@@ -15,8 +15,8 @@ featuredImage:
     self:
       borderRadius: medium
 bottomSections: []
-isFeatured: false
-isDraft: false
+isFeatured: true
+isDraft: true
 seo:
   metaTitle: How to Write a Blog Post That Will Get You More Traffic
   metaDescription: You can add the excerpt and main keywords of your blog post here.
