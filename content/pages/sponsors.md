@@ -53,7 +53,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 100
+      opacity: 62
       url: /images/20250426_153632.jpg
   - type: FeaturedItemsSection
     title:
