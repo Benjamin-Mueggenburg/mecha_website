@@ -50,7 +50,7 @@ sections:
     backgroundImage:
       type: BackgroundImage
       altText: CDC
-      backgroundSize: contain
+      backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
