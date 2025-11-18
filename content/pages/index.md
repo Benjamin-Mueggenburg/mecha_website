@@ -35,7 +35,7 @@ sections:
       - type: FeaturedItem
         title: Who are you?
         tagline: Why should you join us?
-        subtitle: Ella and Sasha
+        subtitle: ''
         text: |+
           Hihihi
 
