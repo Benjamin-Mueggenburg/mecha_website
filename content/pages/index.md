@@ -433,32 +433,6 @@ sections:
       styles:
         self:
           textAlign: center
-  - posts:
-      - content/pages/blog/case-study-3.md
-      - content/pages/blog/staff-vs-student-sem22025.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-    title:
-      type: TitleBlock
-      text: Recent Events
-      color: text-light
-      styles:
-        self:
-          textAlign: center
-          fontWeight: 700
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
