@@ -32,7 +32,7 @@ sections:
 
     actions:
       - type: Link
-        label: See Tutorials
+        label: Would you like to sponsor us? Get in touch here
         url: /
         showIcon: true
         icon: arrowRight
