@@ -33,7 +33,7 @@ sections:
               - ml-10
               - mr-10
       - type: FeaturedItem
-        title: yay
+        title: Who are you?
         tagline: Why should you join us?
         subtitle: Ella and Sasha
         text: |+
