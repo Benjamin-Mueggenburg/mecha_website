@@ -248,7 +248,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-            justifyContent: center
+            justifyContent: flex-start
             textAlign: left
     actions: []
     variant: three-col-grid
