@@ -106,7 +106,7 @@ sections:
             label: See Website
             altText: ''
             url: '/https://www.fphcare.com/nz/'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
