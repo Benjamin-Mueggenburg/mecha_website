@@ -201,7 +201,7 @@ sections:
             label: See Website
             altText: ''
             url: '/https://www.jacobs.com/'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
