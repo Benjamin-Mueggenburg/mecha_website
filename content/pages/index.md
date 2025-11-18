@@ -73,6 +73,8 @@ sections:
     styles:
       self:
         justifyContent: center
+        padding:
+          - pb-6
       subtitle:
         textAlign: center
     backgroundImage:
