@@ -110,7 +110,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Hi there!
+        title: ''
         tagline: ''
         subtitle: Increase your reach
         text: >+
