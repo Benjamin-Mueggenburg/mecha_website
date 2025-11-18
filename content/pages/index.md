@@ -75,6 +75,7 @@ sections:
         justifyContent: center
         padding:
           - pb-5
+          - pt-3
       subtitle:
         textAlign: center
     backgroundImage:
