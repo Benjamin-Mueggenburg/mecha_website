@@ -18,9 +18,18 @@ sections:
       text: Social Media Management
       color: text-dark
     subtitle: ''
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      None of MECHA’s work would be possible without the generous support of our
+      sponsors. Their commitment has been crucial in helping us empower the next
+      generation of engineers, providing opportunities that inspire, challenge,
+      and shape their futures.
+
+
+      We’re excited to continue working together to support and uplift future
+      engineers who are shaping the world ahead.
+
+
+
     actions:
       - type: Button
         label: Get started
