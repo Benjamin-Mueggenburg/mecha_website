@@ -114,7 +114,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          "Over the past nine years, MECHA has grown into a dynamic community
+          "Over the past nine years, MECHA has grown into a amazing community
           where students have the chance to explore, learn, and connect with one
           another. We’ve created a space where you can gain hands-on experience,
           build valuable skills, and develop the confidence to succeed in the
@@ -122,9 +122,9 @@ sections:
 
 
           As we continue to grow, we’re excited to keep providing opportunities
-          that help everyone thrive—whether it's through networking, workshops,
-          or simply collaborating with like-minded peers. Thanks for being a
-          part of MECHA and for shaping the future of engineering with us!"
+          that help everyone thrive, whether it's through networking, workshops,
+          or simply connecting with like-minded peers. Thanks for being a part
+          of MECHA and for shaping the future of engineering with us!"
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
