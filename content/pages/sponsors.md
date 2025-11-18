@@ -92,7 +92,7 @@ sections:
       - type: FeaturedItem
         title: Fisher & Paykel Healthcare
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: "Fisher & Paykel Healthcare is a leading designer, manufacturer and marketer of products and systems for use in acute and chronic respiratory care, surgery and the treatment of obstructive sleep apnea. Driven by a strong sense of purpose, we are working to improve patient care and outcomes through inspired and world-leading healthcare solutions. The needs of our customers and their patients drive everything we do. We call this commitment Care by Design.\_\n\n"
         image:
           type: ImageBlock
