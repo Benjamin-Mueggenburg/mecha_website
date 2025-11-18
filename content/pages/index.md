@@ -18,7 +18,7 @@ sections:
           come join us!
         actions:
           - type: Button
-            label: Get started
+            label: Join us today
             altText: ''
             url: '/https://forms.gle/VENt7VBQjvxfBbyg9'
             showIcon: false
