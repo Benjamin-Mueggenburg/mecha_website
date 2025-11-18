@@ -49,7 +49,7 @@ sections:
         justifyContent: center
     backgroundImage:
       type: BackgroundImage
-      altText: altText of the image
+      altText: CDC
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
