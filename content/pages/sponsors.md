@@ -26,8 +26,14 @@ sections:
         title: BECA
         tagline: 'Beca: Engineering & Consulting Services'
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: >+
+          Beca is one of Asia Pacific’s largest independent advisory, design and
+          engineering consultancies. After a century of operation, we have grown
+          from a family-owned business to one of the most progressive,
+          client-centric professional services consultancies in our region. We
+          have more than 4,000 employees in 24 offices around the world and have
+          delivered projects in more than 70 countries.
+
         image:
           type: ImageBlock
           url: /images/Beca-Logo-Large.png
