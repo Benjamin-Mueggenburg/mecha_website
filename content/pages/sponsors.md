@@ -24,7 +24,7 @@ sections:
     items:
       - type: FeaturedItem
         title: BECA
-        tagline: This is the tagline
+        tagline: 'Beca: Engineering & Consulting Services'
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify site.
