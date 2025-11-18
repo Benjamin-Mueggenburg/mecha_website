@@ -233,7 +233,7 @@ sections:
             label: See Website
             altText: ''
             url: '/https://www.janestreet.com/'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
