@@ -249,6 +249,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
+            textAlign: left
     actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
