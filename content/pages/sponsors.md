@@ -196,7 +196,16 @@ sections:
                 - ml-14
                 - mt-3
                 - mb-1
-        actions: []
+        actions:
+          - type: Link
+            label: See Tutorials
+            altText: ''
+            url: '/https://www.jacobs.com/'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
