@@ -15,7 +15,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Thank you to all our amazing Sponsors
+      text: ''
       color: text-dark
     subtitle: ''
     text: >+
