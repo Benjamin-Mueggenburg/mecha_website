@@ -40,7 +40,7 @@ sections:
             justifyContent: center
             margin:
               - mt-20
-              - mb-16
+              - mb-0
       - type: FeaturedItem
         title: Who are we?
         tagline: Welcome
