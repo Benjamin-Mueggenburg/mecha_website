@@ -138,7 +138,7 @@ sections:
                 - mb-16
         actions:
           - type: Link
-            label: See Tutorials
+            label: See Website
             altText: ''
             url: '/https://www.crown.com/en-nz.html'
             showIcon: false
