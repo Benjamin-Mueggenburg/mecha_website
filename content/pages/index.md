@@ -44,13 +44,6 @@ sections:
           valuable skills, gain hands-on experience, and connect with a
           supportive community. There’s a place for you here—come join us!
 
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
         actions: []
         colors: bg-dark-fg-light
         styles:
