@@ -52,7 +52,7 @@ sections:
             altText: See Website
             url: '/https://www.beca.com/'
             showIcon: true
-            icon: play
+            icon: arrowRight
             iconPosition: right
             style: secondary
             elementId: ''
