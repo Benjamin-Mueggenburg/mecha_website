@@ -156,6 +156,8 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+            margin:
+              - mb-1
     variant: tabs-nav
     colors: bg-neutral-fg-dark
     styles:
