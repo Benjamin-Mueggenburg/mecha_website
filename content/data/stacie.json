@@ -2,11 +2,11 @@
     "type": "Person",
     "name": "Stacie Choe",
     "role": "Pt III, Mechanical",
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n\n",
+    "bio": "General Executive Member\n",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/avatar1.svg",
-        "altText": "First Last",
+        "url": "/images/Stacie.jpg",
+        "altText": "Stacie Choe",
         "styles": {
             "self": {
                 "borderRadius": "medium",

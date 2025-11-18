@@ -2,11 +2,11 @@
     "type": "Person",
     "name": "Ezra Lamdin",
     "role": "Pt III, Mechanical",
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n\n",
+    "bio": "Director of Education\n",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/avatar1.svg",
-        "altText": "First Last",
+        "url": "/images/Messenger_creation_53439E07-E8EA-4BC2-9722-83E5A4D568E6.jpeg",
+        "altText": "Ezra Lamdin",
         "styles": {
             "self": {
                 "borderRadius": "medium",
