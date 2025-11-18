@@ -265,8 +265,12 @@ sections:
       - type: FeaturedItem
         title: Community Support
         subtitle: ''
-        text: |
-          A strong, safe community 
+        text: >+
+
+          At MECHA, we’re dedicated to fostering a welcoming, inclusive, and
+          safe community where every student feels supported. We aim to create a
+          space where you can learn, grow, and connect with confidence.
+
         image:
           type: ImageBlock
           url: /images/clap.png
