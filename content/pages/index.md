@@ -112,7 +112,7 @@ sections:
       - type: FeaturedItem
         title: ''
         tagline: ''
-        subtitle: Increase your reach
+        subtitle: ''
         text: >+
           "Over the past nine years, MECHA has grown into a dynamic community
           where students have the chance to explore, learn, and connect with one
