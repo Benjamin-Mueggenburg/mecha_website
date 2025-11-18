@@ -48,7 +48,7 @@ sections:
                 - mb-7
         actions:
           - type: Link
-            label: Play
+            label: See Website
             altText: See Website
             url: '/https://www.beca.com/'
             showIcon: true
