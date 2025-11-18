@@ -45,7 +45,7 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        alignItems: flex-start
+        alignItems: center
         justifyContent: center
   - type: FeaturedItemsSection
     title:
