@@ -219,8 +219,21 @@ sections:
         title: Jane Street
         tagline: This is the tagline
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: >+
+          We are a global liquidity provider and trading firm that uses
+          sophisticated quantitative analysis and a deep understanding of market
+          mechanics to help keep prices consistent and reliable.
+
+
+          At Jane Street, our work blends human intuition — earned through more
+          than twenty years of experience — with cutting-edge research. Our
+          style is both rigorous and pragmatic. Depending on the problem, we
+          might draw on large-scale machine learning, domain expertise, or
+          pen-and-paper mathematics. We’re a firm of puzzle solvers on and off
+          the clock.
+
+
+
         image:
           type: ImageBlock
           url: /images/Jane_Street_Capital_Logo.svg.png
