@@ -6,6 +6,33 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
+        title: Who are we?
+        tagline: Welcome
+        subtitle: ''
+        text: >
+          The Mechanical and Mechatronics Student Association (MECHA) is a
+          student-led group that aims to connect students with the industry and
+          equip them with the skills to excel in their chosen field. From
+          sharpening their interviewing skills to networking with industry
+          members, MECHA is a fantastic stepping stone to aid the leap from
+          university to the industry.
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-14
+              - pb-14
+              - pl-9
+              - pr-9
+            textAlign: center
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+            margin:
+              - ml-10
+              - mr-10
+      - type: FeaturedItem
         title: Who are you?
         tagline: Why should you join us?
         subtitle: ''
@@ -41,33 +68,6 @@ sections:
             margin:
               - mt-0
               - mb-0
-              - ml-10
-              - mr-10
-      - type: FeaturedItem
-        title: Who are we?
-        tagline: Welcome
-        subtitle: ''
-        text: >
-          The Mechanical and Mechatronics Student Association (MECHA) is a
-          student-led group that aims to connect students with the industry and
-          equip them with the skills to excel in their chosen field. From
-          sharpening their interviewing skills to networking with industry
-          members, MECHA is a fantastic stepping stone to aid the leap from
-          university to the industry.
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-14
-              - pb-14
-              - pl-9
-              - pr-9
-            textAlign: center
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-            margin:
               - ml-10
               - mr-10
     variant: tabs-nav
