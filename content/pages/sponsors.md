@@ -24,7 +24,7 @@ sections:
     items:
       - type: FeaturedItem
         title: BECA
-        tagline: 'Beca: Engineering & Consulting Services'
+        tagline: Engineering & Consulting Services
         subtitle: ''
         text: >+
           Beca is one of Asia Pacific’s largest independent advisory, design and
