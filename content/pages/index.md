@@ -42,6 +42,7 @@ sections:
               - mt-0
               - mb-0
               - ml-10
+              - mr-10
       - type: FeaturedItem
         title: Who are we?
         tagline: Welcome
