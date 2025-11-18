@@ -136,7 +136,16 @@ sections:
               margin:
                 - mt-16
                 - mb-16
-        actions: []
+        actions:
+          - type: Link
+            label: See Tutorials
+            altText: ''
+            url: '/https://www.crown.com/en-nz.html'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
