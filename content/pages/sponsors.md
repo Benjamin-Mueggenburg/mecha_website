@@ -217,7 +217,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Jane Street
-        tagline: This is the tagline
+        tagline: Quantitative Trading and Liquidity
         subtitle: ''
         text: >+
           We are a global liquidity provider and trading firm that uses
