@@ -36,8 +36,13 @@ sections:
         title: Who are you?
         tagline: Why should you join us?
         subtitle: ''
-        text: |+
-          Hihihi
+        text: >+
+
+          You’re someone who’s eager to learn, meet new people, and grow both
+          personally and professionally. Whether you’re just starting out or
+          already confident in your path, MECHA is here to help you build
+          valuable skills, gain hands-on experience, and connect with a
+          supportive community. There’s a place for you here—come join us!
 
         image:
           type: ImageBlock
