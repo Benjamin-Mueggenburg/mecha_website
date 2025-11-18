@@ -49,7 +49,7 @@ sections:
         actions:
           - type: Link
             label: Play
-            altText: See Website
+            altText: Play
             url: '/https://www.beca.com/'
             showIcon: true
             icon: arrowRight
