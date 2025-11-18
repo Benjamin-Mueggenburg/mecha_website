@@ -230,7 +230,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Link
-            label: See Tutorials
+            label: See Website
             altText: ''
             url: '/https://www.janestreet.com/'
             showIcon: false
