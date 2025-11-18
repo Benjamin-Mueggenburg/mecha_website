@@ -16,7 +16,16 @@ sections:
           valuable skills, gain hands-on experience, and connect with a
           supportive community. There’s a place for you here! We love for you to
           come join us!
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: '/https://forms.gle/VENt7VBQjvxfBbyg9'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
