@@ -2,11 +2,11 @@
     "type": "Person",
     "name": "Isabella Chen",
     "role": "Pt IV, Mechanical",
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n\n",
+    "bio": "Director of Marketing\n",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/avatar1.svg",
-        "altText": "First Last",
+        "url": "/images/isabella 🧍🏻_♀️ (1).png",
+        "altText": "Isabella Chen",
         "styles": {
             "self": {
                 "borderRadius": "medium",

@@ -2,11 +2,11 @@
     "type": "Person",
     "name": "Elsa Ly",
     "role": "Pt IV, Mechatronics",
-    "bio": "/\n",
+    "bio": "Director of Diversity/Wellbeing\n",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/avatar1.svg",
-        "altText": "First Last",
+        "url": "/images/Elsa.jpg",
+        "altText": "Elsa Ly",
         "styles": {
             "self": {
                 "borderRadius": "medium",
