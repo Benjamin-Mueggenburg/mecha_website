@@ -141,7 +141,7 @@ sections:
             label: See Website
             altText: ''
             url: '/https://www.crown.com/en-nz.html'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
