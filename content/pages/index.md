@@ -34,7 +34,7 @@ sections:
               - mr-10
       - type: FeaturedItem
         title: yay
-        tagline: A Message from our Presidents
+        tagline: Why should you join us?
         subtitle: Ella and Sasha
         text: |+
           Hihihi
