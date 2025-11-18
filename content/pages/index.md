@@ -18,7 +18,7 @@ sections:
           supportive community. There’s a place for you here—come join us!
 
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
