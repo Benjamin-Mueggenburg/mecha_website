@@ -32,7 +32,7 @@ sections:
 
     actions:
       - type: Link
-        label: Would you like to sponsor us? Get in touch here
+        label: Would you like to Sponsor or work with us? Get in touch here
         url: /
         showIcon: true
         icon: arrowRight
