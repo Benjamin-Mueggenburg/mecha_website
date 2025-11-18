@@ -41,6 +41,7 @@ sections:
             margin:
               - mt-0
               - mb-0
+              - ml-10
       - type: FeaturedItem
         title: Who are we?
         tagline: Welcome
