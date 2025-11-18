@@ -52,6 +52,7 @@ sections:
     styles:
       self:
         alignItems: center
+        justifyContent: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
