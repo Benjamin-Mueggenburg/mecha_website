@@ -113,10 +113,29 @@ sections:
         title: Hi there!
         tagline: ''
         subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          "Over the past nine years, MECHA has grown into a dynamic community
+          where students have the chance to explore, learn, and connect with one
+          another. We’ve created a space where you can gain hands-on experience,
+          build valuable skills, and develop the confidence to succeed in the
+          engineering world.
+
+
+          As we continue to grow, we’re excited to keep providing opportunities
+          that help everyone thrive—whether it's through networking, workshops,
+          or simply collaborating with like-minded peers.
+
+
+          We're looking forward to seeing what MECHA will continue to accomplish
+          together in the future. Thanks for being a part of MECHA and for
+          shaping the future of engineering with us!"
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
