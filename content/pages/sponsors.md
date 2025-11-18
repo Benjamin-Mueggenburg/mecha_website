@@ -51,7 +51,7 @@ sections:
       type: BackgroundImage
       altText: CDC
       backgroundSize: cover
-      backgroundPosition: bottom
+      backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/20250426_153632.jpg
