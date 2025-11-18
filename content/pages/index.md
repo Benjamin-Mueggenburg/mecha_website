@@ -113,18 +113,20 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: >
-          "Over the past nine years, MECHA has grown into a amazing community
-          where students have the chance to explore, learn, and connect with one
-          another. We’ve created a space where you can gain hands-on experience,
-          build valuable skills, and develop the confidence to succeed in the
-          engineering world.
+        text: >+
+          "Over the years, MECHA has grown into an amazing community where
+          students can explore, learn, and connect. We’ve built a space for
+          hands-on experience, skill-building, and growing the confidence you
+          need to succeed in the engineering world.
 
 
-          As we continue to grow, we’re excited to keep providing opportunities
-          that help everyone thrive, whether it's through networking, workshops,
-          or simply connecting with like-minded peers. Thanks for being a part
-          of MECHA and for shaping the future of engineering with us!"
+          This year, we’re excited to offer even more opportunities, whether
+          through networking, workshops, or simply connecting with like-minded
+          peers. Thank you for being part of MECHA and for helping shape the
+          future of engineering with us!"
+
+
+
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
