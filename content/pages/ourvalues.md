@@ -64,20 +64,7 @@ sections:
       development, creating opportunities for meaningful connections and growth
       that prepare them to enter the engineering industry with confidence.
 
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     badge:
       type: Badge
       label: preparing
@@ -116,20 +103,7 @@ sections:
       curiosity and drives our members to explore and excel in the world of
       Mechanical and Mechatronics Engineering.
 
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/IMG_1794.JPG
@@ -166,20 +140,7 @@ sections:
       We recognise the important of a safe, and inclusive community during
       study. MECHA brings students together through fun and meaningful
       experiences that foster enduring connections within our network.
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/DSCF9487_cocktail_final.jpg
@@ -216,27 +177,7 @@ sections:
       underrepresented groups to ensure equitable opportunities and a sense of
       belonging in engineering.
 
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/P1090023.jpg
-      altText: Dope design preview
-      styles:
-        self:
-          borderRadius: medium
+    actions: []
     badge:
       type: Badge
       label: supporting
@@ -253,6 +194,14 @@ sections:
       subtitle:
         textAlign: center
         fontStyle: italic
+    media:
+      type: ImageBlock
+      url: /images/P1090023.jpg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
 slug: ourvalues
 isDraft: false
 seo:
