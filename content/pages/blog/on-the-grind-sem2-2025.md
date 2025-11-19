@@ -5,9 +5,8 @@ date: '2025-09-16'
 author: content/data/kia.json
 excerpt: >-
   This week, MECHA hosted On The Grind, a coffee pop-up in the Terraces where
-  our lovely exec Kia and her boss Indi moved their cafe, Little Things, to us,
-  into campus. They came out early, set up a full coffee stand, and spent the
-  morning giving out free coffees to students and staff.
+  our lovely exec Kia and her boss Indi moved their cafe, Little Things Coffee,
+  to us, ...
 featuredImage:
   type: ImageBlock
   url: /images/20250916_135629.jpg
@@ -20,6 +19,7 @@ featuredImage:
         - pl-0
         - pb-0
         - pr-0
+      borderRadius: medium
 bottomSections:
   - type: DividerSection
     title: Divider
@@ -65,6 +65,17 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: col
+    padding:
+      - pt-5
+      - pl-5
+      - pb-5
+      - pr-5
+    margin:
+      - mt-2
+      - ml-2
+      - mb-2
+      - mr-2
+    borderRadius: none
 ---
 This week, MECHA hosted On The Grind, a coffee pop-up in the Terraces where our lovely exec Kia and her boss Indi moved their cafe, Little Things, to us, into campus. They came out early, set up a full coffee stand, and spent the morning giving out free coffees to students and staff.
 

@@ -10,7 +10,7 @@ featuredImage:
   altText: Case study 3
   styles:
     self:
-      borderRadius: x-large
+      borderRadius: medium
   type: ImageBlock
 bottomSections:
   - title: Divider
@@ -81,7 +81,7 @@ styles:
     borderColor: border-light
     borderStyle: none
     borderWidth: 0
-    borderRadius: x-large
+    borderRadius: none
     flexDirection: col
     margin:
       - mt-2
