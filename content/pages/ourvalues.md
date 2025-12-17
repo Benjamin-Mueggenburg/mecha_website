@@ -10,8 +10,13 @@ sections:
         tagline: Our Values
         subtitle: ''
         text: >+
-          We carefully plan events under the following pillars, which connect,
-          educate and inspire the next generation of engineers.
+          MECHA is driven by a strong commitment to student empowerment,
+          community, and meaningful growth throughout the academic journey.
+          Guided by our core values, we thoughtfully design and deliver events
+          built around key pillars that nurture both technical and personal
+          development. MECHA creates inclusive and impactful experiences that
+          build confidence, strengthen skills, and inspire a values-driven,
+          innovative next generation of engineers.
 
         image:
           type: ImageBlock
