@@ -33,7 +33,7 @@ sections:
     actions:
       - type: Link
         label: Would you like to Sponsor or work with us? Get in touch here
-        url: /
+        url: /contactus
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -93,7 +93,7 @@ sections:
           - type: Link
             label: See Website
             altText: See Website
-            url: '/https://www.beca.com/'
+            url: 'https://www.beca.com/'
             showIcon: true
             icon: arrowRight
             iconPosition: right
@@ -148,7 +148,7 @@ sections:
           - type: Link
             label: See Website
             altText: ''
-            url: '/https://www.fphcare.com/nz/'
+            url: 'https://www.fphcare.com/nz/'
             showIcon: true
             icon: arrowRight
             iconPosition: right
@@ -183,7 +183,7 @@ sections:
           - type: Link
             label: See Website
             altText: ''
-            url: '/https://www.crown.com/en-nz.html'
+            url: 'https://www.crown.com/en-nz.html'
             showIcon: true
             icon: arrowRight
             iconPosition: right
@@ -242,7 +242,7 @@ sections:
           - type: Link
             label: See Website
             altText: ''
-            url: '/https://www.jacobs.com/'
+            url: 'https://www.jacobs.com/'
             showIcon: true
             icon: arrowRight
             iconPosition: right
@@ -288,7 +288,7 @@ sections:
           - type: Link
             label: See Website
             altText: ''
-            url: '/https://www.janestreet.com/'
+            url: 'https://www.janestreet.com/'
             showIcon: true
             icon: arrowRight
             iconPosition: right
