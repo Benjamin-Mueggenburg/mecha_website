@@ -19,12 +19,11 @@ export default function FormBlock(props) {
         const data = new FormData(formRef.current);
         const value = Object.fromEntries(data.entries()) as Record<string, string>;
 
-        fetch("/", {
-            method: "POST",
-            headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        fetch('/__forms.html', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
             body: new URLSearchParams(value).toString()
-        })
-            .then(() => alert("Form successfully submitted"))
+        }).then(() => alert("Form successfully submitted"))
             .catch(error => alert(error));
     }
 
